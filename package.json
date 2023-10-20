@@ -9,6 +9,10 @@
     "web": "expo start --web",
     "test": "jest --watchAll"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msell/expo-router-firebase-auth"
+  },
   "jest": {
     "preset": "jest-expo"
   },
